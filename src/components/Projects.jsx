@@ -3,8 +3,9 @@ import ProjectCard from "./ProjectCard";
 
 const projects = [
   {
-    title: "E-commerce Store",
-    description: "A jewelry e-commerce store built with React, FastAPI, and PostgreSQL.",
+    title: "Todo list",
+    description: "A Todo list built with React, FastAPI, and PostgreSQL.",
+    link: "https://github.com/its-shalini-gupta/todo-list-react-fastapi",
     image:
       "https://img.freepik.com/free-vector/online-shopping-concept-illustration_114360-1084.jpg",
     github: "#",
@@ -13,14 +14,16 @@ const projects = [
   {
     title: "Chat Application",
     description: "Real-time chat app using WebSockets, FastAPI, and React.",
+    link: "https://github.com/its-shalini-gupta/chat-app-react-fastapi",
     image:
       "https://img.freepik.com/free-vector/online-discussion-concept-illustration_114360-1643.jpg",
     github: "#",
     demo: "#",
   },
   {
-    title: "Expense Tracker",
-    description: "Track and manage expenses with a full-stack web app.",
+    title: "Food Delivery",
+    description: "Food delivery expenses with this React web application.",
+    link: "https://github.com/its-shalini-gupta/react-food-delivery",
     image:
       "https://img.freepik.com/free-vector/finance-concept-illustration_114360-2235.jpg",
     github: "#",

@@ -1,5 +1,5 @@
 import React from "react";
-import MyCV from "../assets/test-pdf.pdf";
+import MyCV from "../assets/Shalini-Gupta-CV.pdf";
 
 const Hero = () => {
   return (
