@@ -119,7 +119,7 @@ const Contact = () => {
       {/* Social Icons */}
       <div className="flex justify-center items-center gap-6 mt-10 animate-fadeIn">
         <a
-          href="https://instagram.com"
+          href="https://www.instagram.com/its_._shalini?igsh=MXh4ZHVmZDyzlwMa=="
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#E4405F] text-2xl hover:scale-125 transition-transform duration-300"
@@ -128,7 +128,7 @@ const Contact = () => {
           <FaInstagram />
         </a>
         <a
-          href="https://facebook.com"
+          href="https://www.facebook.com/share/1ALq8zNbwb"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#1877F2] text-2xl hover:scale-125 transition-transform duration-300"
@@ -137,7 +137,7 @@ const Contact = () => {
           <FaFacebookF />
         </a>
         <a
-          href="https://github.com"
+          href="https://github.com/its-shalini-gupta"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#181717] dark:text-white text-2xl hover:scale-125 transition-transform duration-300"
@@ -146,7 +146,7 @@ const Contact = () => {
           <FaGithub />
         </a>
         <a
-          href="https://linkedin.com"
+          href="https://www.linkedin.com/in/shalini-gupta-7002a51a3?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"
           target="_blank"
           rel="noopener noreferrer"
           className="text-[#0A66C2] text-2xl hover:scale-125 transition-transform duration-300"
